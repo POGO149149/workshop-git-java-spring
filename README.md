@@ -1,4 +1,4 @@
-# Práctica de Git y GitHub — API de Tareas (Java + Spring Boot)
+# Práctica de Git y GitHub - VERSION LOCAL
 
 Proyecto de práctica para el curso **Programación II**. Su propósito principal
 **no** es el código en sí, sino servir como repositorio base para los
