@@ -80,3 +80,5 @@ src/main/java/com/plusti/practicagit/
 ├── repository/                   # Interfaces Spring Data JPA
 └── service/                      # Lógica de negocio
 ```
+
+Este proyecto es una práctica de Git y GitHub con una API de tareas en Java y Spring Boot.
