@@ -1,1 +1,2 @@
 Funcionalidad A - version inicial
+Funcionalidad A - mejora adicional
